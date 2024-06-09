@@ -1,45 +1,71 @@
-[01:12:29] [ServerMain/ERROR]: Failed to load properties from file: server.properties
-java.nio.file.NoSuchFileException: server.properties
-	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
-	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
-	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
-	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
-	at java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
-	at java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
-	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
-	at java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
-	at ame.b(SourceFile:62) ~[server-1.20.4.jar:?]
-	at amb.a(SourceFile:138) ~[server-1.20.4.jar:?]
-	at amc.<init>(SourceFile:12) ~[server-1.20.4.jar:?]
-	at net.minecraft.server.Main.main(SourceFile:112) ~[server-1.20.4.jar:?]
-	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[01:12:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:12:29] [ServerMain/INFO]: No existing world data, creating new world
-[01:12:30] [ServerMain/INFO]: Loaded 7 recipes
-[01:12:30] [ServerMain/INFO]: Loaded 1271 advancements
-[01:12:31] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[01:12:31] [Server thread/INFO]: Loading properties
-[01:12:31] [Server thread/INFO]: Default game type: SURVIVAL
-[01:12:31] [Server thread/INFO]: Generating keypair
-[01:12:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:12:31] [Server thread/INFO]: Using epoll channel type
-[01:12:31] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[01:12:31] [Server thread/WARN]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
-[01:12:31] [Server thread/WARN]: Perhaps a server is already running on that port?
-[01:12:31] [Server thread/ERROR]: Encountered an unexpected exception
-java.lang.IllegalStateException: Failed to initialize server
-	at net.minecraft.server.MinecraftServer.w(SourceFile:699) ~[server-1.20.4.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[server-1.20.4.jar:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[01:12:31] [Server thread/ERROR]: This crash report has been saved to: /workspaces/ProjectoFork/servidor_minecraft/./crash-reports/crash-2024-06-07_01.12.31-server.txt
-[01:12:31] [Server thread/INFO]: Stopping server
-[01:12:31] [Server thread/INFO]: Saving worlds
-[01:12:31] [Server thread/ERROR]: Exception stopping the server
-java.lang.NullPointerException: Cannot invoke "and.D_()" because "$$5" is null
-	at net.minecraft.server.MinecraftServer.a(SourceFile:547) ~[server-1.20.4.jar:?]
-	at net.minecraft.server.MinecraftServer.t(SourceFile:606) ~[server-1.20.4.jar:?]
-	at ama.t(SourceFile:542) ~[server-1.20.4.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:718) ~[server-1.20.4.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[server-1.20.4.jar:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[19:37:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:37:17] [ServerMain/INFO]: Loaded 7 recipes
+[19:37:17] [ServerMain/INFO]: Loaded 1271 advancements
+[19:37:18] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[19:37:18] [Server thread/INFO]: Loading properties
+[19:37:18] [Server thread/INFO]: Default game type: SURVIVAL
+[19:37:18] [Server thread/INFO]: Generating keypair
+[19:37:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:37:18] [Server thread/INFO]: Using epoll channel type
+[19:37:18] [Server thread/INFO]: Preparing level "world"
+[19:37:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:37:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:37:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:37:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:37:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:37:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:37:26] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[19:37:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[19:37:27] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[19:37:27] [Worker-Main-2/INFO]: Preparing spawn area: 5%
+[19:37:28] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[19:37:29] [Worker-Main-3/INFO]: Preparing spawn area: 7%
+[19:37:30] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[19:37:30] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[19:37:30] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[19:37:30] [Worker-Main-3/INFO]: Preparing spawn area: 11%
+[19:37:31] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[19:37:32] [Worker-Main-3/INFO]: Preparing spawn area: 15%
+[19:37:32] [Worker-Main-2/INFO]: Preparing spawn area: 16%
+[19:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 19%
+[19:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[19:37:33] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[19:37:34] [Worker-Main-3/INFO]: Preparing spawn area: 26%
+[19:37:34] [Worker-Main-3/INFO]: Preparing spawn area: 30%
+[19:37:35] [Worker-Main-2/INFO]: Preparing spawn area: 32%
+[19:37:35] [Worker-Main-2/INFO]: Preparing spawn area: 33%
+[19:37:36] [Worker-Main-3/INFO]: Preparing spawn area: 36%
+[19:37:37] [Worker-Main-3/INFO]: Preparing spawn area: 40%
+[19:37:37] [Worker-Main-1/INFO]: Preparing spawn area: 42%
+[19:37:37] [Worker-Main-2/INFO]: Preparing spawn area: 44%
+[19:37:38] [Worker-Main-3/INFO]: Preparing spawn area: 48%
+[19:37:39] [Worker-Main-1/INFO]: Preparing spawn area: 52%
+[19:37:39] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[19:37:39] [Worker-Main-3/INFO]: Preparing spawn area: 56%
+[19:37:40] [Worker-Main-2/INFO]: Preparing spawn area: 60%
+[19:37:40] [Worker-Main-1/INFO]: Preparing spawn area: 63%
+[19:37:41] [Worker-Main-1/INFO]: Preparing spawn area: 66%
+[19:37:41] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[19:37:42] [Worker-Main-1/INFO]: Preparing spawn area: 71%
+[19:37:42] [Worker-Main-2/INFO]: Preparing spawn area: 74%
+[19:37:43] [Worker-Main-3/INFO]: Preparing spawn area: 77%
+[19:37:43] [Worker-Main-1/INFO]: Preparing spawn area: 81%
+[19:37:44] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[19:37:44] [Worker-Main-3/INFO]: Preparing spawn area: 85%
+[19:37:45] [Worker-Main-2/INFO]: Preparing spawn area: 88%
+[19:37:46] [Worker-Main-3/INFO]: Preparing spawn area: 91%
+[19:37:46] [Worker-Main-1/INFO]: Preparing spawn area: 95%
+[19:37:46] [Worker-Main-2/INFO]: Preparing spawn area: 97%
+[19:37:47] [Server thread/INFO]: Time elapsed: 23279 ms
+[19:37:47] [Server thread/INFO]: Done (28.587s)! For help, type "help"
+[19:37:54] [Server thread/INFO]: Stopping the server
+[19:37:54] [Server thread/INFO]: Stopping server
+[19:37:54] [Server thread/INFO]: Saving players
+[19:37:54] [Server thread/INFO]: Saving worlds
+[19:37:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:38:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:38:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:38:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:38:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:38:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:38:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
