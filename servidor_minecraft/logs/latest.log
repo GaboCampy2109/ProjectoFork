@@ -47,3 +47,9 @@
 [02:14:07] [Server thread/INFO]: 1/tell Alvsinn_ gey<--[HERE]
 [02:14:15] [Server thread/INFO]: [PanterK_YT: Teleported Alvnsinn_ to PanterK_YT]
 [02:14:38] [Server thread/INFO]: Alvnsinn_ was slain by Zombie
+[02:23:34] [Server thread/INFO]: [PanterK_YT: Teleported Alvnsinn_ to PanterK_YT]
+[02:26:04] [Server thread/INFO]: Alvnsinn_ lost connection: Timed out
+[02:26:04] [Server thread/INFO]: Alvnsinn_ left the game
+[02:26:04] [Server thread/WARN]: handleDisconnection() called twice
+[02:26:07] [Server thread/INFO]: PanterK_YT lost connection: Timed out
+[02:26:07] [Server thread/INFO]: PanterK_YT left the game
