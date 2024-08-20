@@ -20,3 +20,7 @@
 [23:02:20] [Server thread/INFO]: Alvnsinn_ joined the game
 [23:08:54] [Server thread/INFO]: PanterK_YT[/[0:0:0:0:0:0:0:1%0]:33954] logged in with entity id 1792 at (729.6999999880791, 94.0, 158.64379290668447)
 [23:08:54] [Server thread/INFO]: PanterK_YT joined the game
+[23:15:36] [Server thread/INFO]: Alvnsinn_ lost connection: Timed out
+[23:15:36] [Server thread/INFO]: Alvnsinn_ left the game
+[23:15:36] [Server thread/WARN]: handleDisconnection() called twice
+[23:15:43] [Server thread/INFO]: [Not Secure] <PanterK_YT> aaa
