@@ -1047,3 +1047,33 @@
 [27Oct2024 22:23:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
 [27Oct2024 22:23:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX has made the advancement [Hot Stuff]
 [27Oct2024 22:23:37.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto has made the advancement [Hot Stuff]
+[27Oct2024 22:24:39.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto tried to swim in lava
+[27Oct2024 22:24:39.601] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Chiguinto with unique ID travelersbackpack.diamond_27.10.2024-22.24.39.dat
+[27Oct2024 22:24:39.606] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -130 Y: 34 Z: 22
+[27Oct2024 22:24:44.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 22:24:57.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/15561, l='ServerLevel[world]', x=-137.63, y=-67.65, z=27.34] died: Restless Spirit fell out of the world
+[27Oct2024 22:24:58.667] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/16828, l='ServerLevel[world]', x=-131.72, y=36.62, z=22.90] died: Restless Spirit was slain by AlonznX
+[27Oct2024 22:25:22.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 22:25:51.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto was slain by Restless Spirit
+[27Oct2024 22:25:57.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/16391, l='ServerLevel[world]', x=-149.45, y=-67.57, z=11.76] died: Restless Spirit fell out of the world
+[27Oct2024 22:25:59.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 22:26:02.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/16732, l='ServerLevel[world]', x=-128.17, y=39.85, z=14.33] died: Restless Spirit was slain by AlonznX
+[27Oct2024 22:26:35.891] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/16756, l='ServerLevel[world]', x=-197.64, y=-66.04, z=-1.43] died: Restless Spirit fell out of the world
+[27Oct2024 22:27:43.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto was burnt to a crisp whilst fighting AlonznX
+[27Oct2024 22:27:43.995] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Chiguinto with unique ID travelersbackpack.diamond_27.10.2024-22.27.43.dat
+[27Oct2024 22:27:43.995] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -133 Y: 34 Z: 16
+[27Oct2024 22:28:05.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 22:28:36.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18289, l='ServerLevel[world]', x=-135.56, y=-73.49, z=25.26] died: Restless Spirit fell out of the world
+[27Oct2024 22:29:13.492] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18535, l='ServerLevel[world]', x=-132.02, y=-68.03, z=22.50] died: Restless Spirit fell out of the world
+[27Oct2024 22:29:21.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19629, l='ServerLevel[world]', x=-124.38, y=37.39, z=15.02] died: Restless Spirit was slain by AlonznX
+[27Oct2024 22:30:02.894] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18939, l='ServerLevel[world]', x=-109.65, y=-70.87, z=-2.25] died: Restless Spirit fell out of the world
+[27Oct2024 22:30:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 22:30:41.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto was slain by AlonznX
+[27Oct2024 22:30:41.248] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Chiguinto with unique ID travelersbackpack.diamond_27.10.2024-22.30.41.dat
+[27Oct2024 22:30:41.249] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -133 Y: 32 Z: 34
+[27Oct2024 22:30:41.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19624, l='ServerLevel[world]', x=-172.29, y=-66.34, z=63.83] died: Restless Spirit fell out of the world
+[27Oct2024 22:31:20.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19995, l='ServerLevel[world]', x=-142.26, y=-64.80, z=16.39] died: Restless Spirit fell out of the world
+[27Oct2024 22:32:08.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto was slain by AlonznX
+[27Oct2024 22:32:08.052] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Chiguinto with unique ID travelersbackpack.diamond_27.10.2024-22.32.08.dat
+[27Oct2024 22:32:08.053] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -907 Y: 63 Z: 274
+[27Oct2024 22:33:17.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20580, l='ServerLevel[world]', x=-98.59, y=-9208.98, z=44.77] died: Restless Spirit fell out of the world
