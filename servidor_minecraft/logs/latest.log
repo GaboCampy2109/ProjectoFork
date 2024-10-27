@@ -110,3 +110,19 @@
 [27Oct2024 03:00:14.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chiguinto> zzz
 [27Oct2024 03:00:17.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chiguinto> _D
 [27Oct2024 03:00:24.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chiguinto> #
+[27Oct2024 03:10:50.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Oct2024 03:10:50.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: psy hola<--[HERE]
+[27Oct2024 03:11:04.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Chiguinto: negro
+[27Oct2024 03:11:44.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlonznX> a
+[27Oct2024 03:13:53.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX lost connection: Timed out
+[27Oct2024 03:13:53.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX left the game
+[27Oct2024 03:14:04.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chiguinto> a
+[27Oct2024 03:14:16.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto was slain by Iron Golem
+[27Oct2024 03:14:16.696] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Chiguinto with unique ID travelersbackpack.diamond_27.10.2024-03.14.16.dat
+[27Oct2024 03:14:16.699] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -928 Y: 63 Z: 257
+[27Oct2024 03:15:52.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chiguinto> aaaa
+[27Oct2024 03:15:52.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chiguinto> a
+[27Oct2024 03:16:00.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Oct2024 03:16:00.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[27Oct2024 03:16:01.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Oct2024 03:16:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
