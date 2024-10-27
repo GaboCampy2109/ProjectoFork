@@ -1077,3 +1077,9 @@
 [27Oct2024 22:32:08.052] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Chiguinto with unique ID travelersbackpack.diamond_27.10.2024-22.32.08.dat
 [27Oct2024 22:32:08.053] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -907 Y: 63 Z: 274
 [27Oct2024 22:33:17.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20580, l='ServerLevel[world]', x=-98.59, y=-9208.98, z=44.77] died: Restless Spirit fell out of the world
+[27Oct2024 22:39:21.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto has made the advancement [What a Deal!]
+[27Oct2024 22:40:10.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 22:40:59.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Spectator Mode]
+[27Oct2024 22:41:03.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 5.317293566734634,4.081858048850092,8.276063801611826
+[27Oct2024 22:41:06.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 3.5750880006128227,3.7500000748503135,9.141052356084174
+[27Oct2024 22:41:18.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Survival Mode]
