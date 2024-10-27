@@ -73,3 +73,22 @@
 [27Oct2024 01:55:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX has made the advancement [Acquire Hardware]
 [27Oct2024 01:56:10.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto has made the advancement [Isn't It Iron Pick]
 [27Oct2024 01:56:51.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX has made the advancement [Isn't It Iron Pick]
+[27Oct2024 02:02:23.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto was slain by Zombie
+[27Oct2024 02:03:05.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Chiguinto to AlonznX
+[27Oct2024 02:06:30.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! -5.388714059230779,0.0,9.814940201620743
+[27Oct2024 02:06:30.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! -6.032704658307466,0.0,11.106978951034762
+[27Oct2024 02:06:30.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! -6.676871376424003,0.0,12.410986247546646
+[27Oct2024 02:06:30.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 5.996482085773295,0.0,-11.827845417781191
+[27Oct2024 02:06:30.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 5.996482085773295,0.0,-11.827845417781191
+[27Oct2024 02:06:30.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 5.996482085773295,0.0,-11.827845417781191
+[27Oct2024 02:06:30.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 6.002879762738473,0.0,-11.815135231696331
+[27Oct2024 02:06:31.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 5.278417313154108,0.0,-10.469523315853337
+[27Oct2024 02:06:31.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 4.557435973013526,0.0,-9.112368171067544
+[27Oct2024 02:06:34.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! -8.61854452406837,0.0,6.917936686024518
+[27Oct2024 02:06:34.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! -9.648584408263929,0.0,7.709629106435102
+[27Oct2024 02:06:34.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! -10.658023514422041,0.0,8.485487693537777
+[27Oct2024 02:06:34.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 10.423912579140222,0.0,-7.387142858854247
+[27Oct2024 02:06:34.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 10.423912579140222,0.0,-7.387142858854247
+[27Oct2024 02:06:34.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 10.423912579140222,0.0,-7.387142858854247
+[27Oct2024 02:06:34.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 9.302746607754557,0.0,-6.713171455442648
+[27Oct2024 02:06:34.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 8.164992727934191,0.0,-6.043840598544364
