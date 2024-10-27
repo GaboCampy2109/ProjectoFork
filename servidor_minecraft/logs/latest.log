@@ -1113,3 +1113,45 @@
 [27Oct2024 22:51:50.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX has made the advancement [What a Deal!]
 [27Oct2024 23:02:06.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chiguinto> zzz
 [27Oct2024 23:02:48.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlonznX> -910 63 278
+[27Oct2024 23:07:09.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Spectator Mode]
+[27Oct2024 23:07:13.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! -9.94287146662873,0.19683074422428604,-3.993144366788826
+[27Oct2024 23:07:16.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! -10.002636697342496,3.4145408691216517,-3.144542209308298
+[27Oct2024 23:07:23.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! -9.919421804907188,0.0,-4.404929551823557
+[27Oct2024 23:07:28.181] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33107, l='ServerLevel[world]', x=-1371.99, y=74.20, z=-144.97] died, message: 'Villager was slain by Cyclops'
+[27Oct2024 23:07:32.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33143, l='ServerLevel[world]', x=-1378.41, y=74.20, z=-143.33] died, message: 'Villager was slain by Cyclops'
+[27Oct2024 23:07:34.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 3.7391801389794637,0.0,-9.910589509483827
+[27Oct2024 23:07:41.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 6.777514472006715,0.0,-8.500191079148465
+[27Oct2024 23:07:43.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/33074, l='ServerLevel[world]', x=-1368.00, y=72.20, z=-170.91] died, message: 'Farmer was slain by Cyclops'
+[27Oct2024 23:07:45.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 7.67445544254474,0.0,-7.642464634272187
+[27Oct2024 23:07:48.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 7.53197027086776,0.0037789979789693007,-7.03817387271107
+[27Oct2024 23:07:55.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Survival Mode]
+[27Oct2024 23:08:19.347] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/33878, l='ServerLevel[world]', x=-1362.63, y=73.14, z=-146.54] died, message: 'Fisherman was slain by Cyclops'
+[27Oct2024 23:08:57.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/33029, l='ServerLevel[world]', x=-1365.81, y=72.20, z=-175.94] died, message: 'Farmer was slain by Cyclops'
+[27Oct2024 23:09:46.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1363, y=67, z=-124} BlockPos{x=-1362, y=66, z=-126}
+[27Oct2024 23:09:47.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1358, y=67, z=-122} BlockPos{x=-1357, y=66, z=-123}
+[27Oct2024 23:09:47.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1358, y=67, z=-122} BlockPos{x=-1357, y=66, z=-123}
+[27Oct2024 23:09:50.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX was slain by Cyclops
+[27Oct2024 23:09:50.896] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AlonznX with unique ID travelersbackpack.gold_27.10.2024-23.09.50.dat
+[27Oct2024 23:09:50.897] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1360 Y: 68 Z: -113
+[27Oct2024 23:10:07.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported AlonznX to -1359.500000, 60.000000, -132.500000]
+[27Oct2024 23:10:12.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported AlonznX to -1359.500000, 70.000000, -132.500000]
+[27Oct2024 23:10:45.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX was slain by Cyclops
+[27Oct2024 23:10:48.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported AlonznX to -1359.500000, 70.000000, -132.500000]
+[27Oct2024 23:10:50.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported AlonznX to -1359.500000, 70.000000, -132.500000]
+[27Oct2024 23:10:57.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 23:11:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto was slain by Cyclops
+[27Oct2024 23:11:02.494] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Chiguinto with unique ID travelersbackpack.diamond_27.10.2024-23.11.02.dat
+[27Oct2024 23:11:02.495] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1350 Y: 67 Z: -128
+[27Oct2024 23:11:24.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX was slain by Cyclops
+[27Oct2024 23:11:28.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported AlonznX to -1359.500000, 70.000000, -132.500000]
+[27Oct2024 23:11:29.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 23:11:43.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX was doomed to fall by Cyclops
+[27Oct2024 23:11:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 23:11:50.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported AlonznX to -1359.500000, 70.000000, -132.500000]
+[27Oct2024 23:11:51.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 23:12:00.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX was slain by Cyclops
+[27Oct2024 23:12:04.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported AlonznX to -1359.500000, 70.000000, -132.500000]
+[27Oct2024 23:12:07.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/37372, l='ServerLevel[world]', x=-1356.30, y=72.20, z=-130.47] died, message: 'Librarian was slain by Cyclops'
+[27Oct2024 23:12:34.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 23:12:45.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 23:12:57.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
