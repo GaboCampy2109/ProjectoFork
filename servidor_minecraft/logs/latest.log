@@ -92,3 +92,7 @@
 [27Oct2024 02:06:34.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 10.423912579140222,0.0,-7.387142858854247
 [27Oct2024 02:06:34.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 9.302746607754557,0.0,-6.713171455442648
 [27Oct2024 02:06:34.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonznX) moved too quickly! 8.164992727934191,0.0,-6.043840598544364
+[27Oct2024 02:10:23.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-668, y=64, z=146} BlockPos{x=-667, y=63, z=147}
+[27Oct2024 02:10:24.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-667, y=64, z=145} BlockPos{x=-667, y=62, z=145}
+[27Oct2024 02:16:22.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto has made the advancement [Diamonds!]
+[27Oct2024 02:16:25.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX has made the advancement [Diamonds!]
