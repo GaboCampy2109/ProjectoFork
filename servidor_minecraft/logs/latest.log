@@ -1111,3 +1111,5 @@
 [27Oct2024 22:49:53.002] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d3813a2[id=<null>,name=AlonznX,properties={},legacy=false] (/[::1]:45448) lost connection: Timed out
 [27Oct2024 22:51:26.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Chiguinto: hola
 [27Oct2024 22:51:50.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX has made the advancement [What a Deal!]
+[27Oct2024 23:02:06.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chiguinto> zzz
+[27Oct2024 23:02:48.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlonznX> -910 63 278
