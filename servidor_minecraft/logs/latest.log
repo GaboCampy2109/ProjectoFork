@@ -101,3 +101,5 @@
 [27Oct2024 02:20:02.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto has made the advancement [Monster Hunter]
 [27Oct2024 02:24:36.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto was blown up by Creeper
 [27Oct2024 02:24:51.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Chiguinto to AlonznX
+[27Oct2024 02:31:11.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-975, y=64, z=264} BlockPos{x=-975, y=62, z=262}
+[27Oct2024 02:37:44.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/16624, l='ServerLevel[world]', x=-926.54, y=61.00, z=266.86] died, message: 'Nitwit was slain by AlonznX'
