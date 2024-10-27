@@ -96,3 +96,8 @@
 [27Oct2024 02:10:24.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-667, y=64, z=145} BlockPos{x=-667, y=62, z=145}
 [27Oct2024 02:16:22.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto has made the advancement [Diamonds!]
 [27Oct2024 02:16:25.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX has made the advancement [Diamonds!]
+[27Oct2024 02:19:30.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Oct2024 02:19:30.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pene<--[HERE]
+[27Oct2024 02:20:02.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto has made the advancement [Monster Hunter]
+[27Oct2024 02:24:36.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto was blown up by Creeper
+[27Oct2024 02:24:51.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Chiguinto to AlonznX
