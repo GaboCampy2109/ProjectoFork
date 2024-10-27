@@ -1083,3 +1083,31 @@
 [27Oct2024 22:41:03.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 5.317293566734634,4.081858048850092,8.276063801611826
 [27Oct2024 22:41:06.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 3.5750880006128227,3.7500000748503135,9.141052356084174
 [27Oct2024 22:41:18.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Survival Mode]
+[27Oct2024 22:44:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 22:46:04.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 22:46:20.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[27Oct2024 22:46:23.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto tried to swim in lava to escape AlonznX
+[27Oct2024 22:46:23.296] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Chiguinto with unique ID travelersbackpack.diamond_27.10.2024-22.46.23.dat
+[27Oct2024 22:46:23.297] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -918 Y: 62 Z: 264
+[27Oct2024 22:46:36.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set Chiguinto's game mode to Creative Mode]
+[27Oct2024 22:46:51.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set Chiguinto's game mode to Survival Mode]
+[27Oct2024 22:46:59.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto has made the advancement [A Throwaway Joke]
+[27Oct2024 22:47:44.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto tried to swim in lava
+[27Oct2024 22:48:23.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX lost connection: Disconnected
+[27Oct2024 22:48:23.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX left the game
+[27Oct2024 22:48:23.899] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Oct2024 22:48:30.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlonznX[/[::1]:56242] logged in with entity id 27840 at (-906.0537007471454, 60.0, 301.6667706867769)
+[27Oct2024 22:48:30.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX joined the game
+[27Oct2024 22:48:44.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set Chiguinto's game mode to Creative Mode]
+[27Oct2024 22:49:02.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX lost connection: You logged in from another location
+[27Oct2024 22:49:02.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX left the game
+[27Oct2024 22:49:02.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlonznX[/[::1]:60644] logged in with entity id 28023 at (-889.3565132253447, 63.0, 288.5141226718735)
+[27Oct2024 22:49:02.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX joined the game
+[27Oct2024 22:49:32.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX lost connection: Timed out
+[27Oct2024 22:49:32.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX left the game
+[27Oct2024 22:49:34.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlonznX[/[::1]:45516] logged in with entity id 28089 at (-890.4700320246246, 63.0, 289.14233070444305)
+[27Oct2024 22:49:34.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX joined the game
+[27Oct2024 22:49:43.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set Chiguinto's game mode to Survival Mode]
+[27Oct2024 22:49:53.002] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d3813a2[id=<null>,name=AlonznX,properties={},legacy=false] (/[::1]:45448) lost connection: Timed out
+[27Oct2024 22:51:26.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Chiguinto: hola
+[27Oct2024 22:51:50.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX has made the advancement [What a Deal!]
