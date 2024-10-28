@@ -102,3 +102,14 @@
 [28Oct2024 01:23:50.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1324, y=58, z=-1355} BlockPos{x=-1325, y=57, z=-1356}
 [28Oct2024 01:24:09.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1331, y=52, z=-1349} BlockPos{x=-1331, y=53, z=-1349}
 [28Oct2024 01:24:27.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported AlonznX to Chiguinto]
+[28Oct2024 01:24:47.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Creative Mode]
+[28Oct2024 01:25:00.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Survival Mode]
+[28Oct2024 01:27:38.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Spectator Mode]
+[28Oct2024 01:28:03.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Survival Mode]
+[28Oct2024 01:28:07.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported AlonznX to Chiguinto]
+[28Oct2024 01:28:50.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported AlonznX to -909.500000, 63.000000, 278.500000]
+[28Oct2024 01:28:54.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 01:29:19.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX lost connection: Timed out
+[28Oct2024 01:29:19.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX left the game
+[28Oct2024 01:29:29.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chiguinto lost connection: Timed out
+[28Oct2024 01:29:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto left the game
