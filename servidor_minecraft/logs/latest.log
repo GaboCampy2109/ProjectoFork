@@ -45,3 +45,15 @@
 [28Oct2024 00:42:16.544] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -33 Y: 79 Z: -974
 [28Oct2024 00:42:34.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
 [28Oct2024 00:44:10.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX has made the advancement [Dragonslayer]
+[28Oct2024 00:48:56.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 00:50:07.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-299, y=64, z=-1499} BlockPos{x=-301, y=63, z=-1500}
+[28Oct2024 00:50:07.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-299, y=64, z=-1499} BlockPos{x=-301, y=63, z=-1500}
+[28Oct2024 00:50:07.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-299, y=64, z=-1499} BlockPos{x=-301, y=63, z=-1500}
+[28Oct2024 00:51:14.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX has made the advancement [Who You Gonna Call?]
+[28Oct2024 00:51:55.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto has made the advancement [Who You Gonna Call?]
+[28Oct2024 00:52:51.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 00:53:21.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto walked into fire whilst fighting Fire Dragon
+[28Oct2024 00:53:21.848] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Chiguinto with unique ID travelersbackpack.diamond_28.10.2024-00.53.21.dat
+[28Oct2024 00:53:21.849] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -413 Y: 73 Z: -1394
+[28Oct2024 00:53:28.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 00:53:57.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto burned to death
