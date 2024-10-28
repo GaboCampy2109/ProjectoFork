@@ -21,3 +21,27 @@
 [28Oct2024 00:31:39.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Gave 250 experience points to AlonznX]
 [28Oct2024 00:31:40.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Gave 250 experience points to AlonznX]
 [28Oct2024 00:31:40.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Gave 250 experience points to AlonznX]
+[28Oct2024 00:35:45.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlonznX> -910 63 278
+[28Oct2024 00:38:35.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 00:39:34.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 00:40:10.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set Chiguinto's game mode to Spectator Mode]
+[28Oct2024 00:40:12.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Spectator Mode]
+[28Oct2024 00:40:16.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! -5.698587189644286,3.7500000254094488,-8.074935229060495
+[28Oct2024 00:40:25.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 8.81037819137623,0.0,-6.317086103620511
+[28Oct2024 00:40:30.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 6.156916282783413,0.0,-8.782129991149617
+[28Oct2024 00:40:42.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 7.0791201327920135,0.0,-8.269461435481617
+[28Oct2024 00:40:55.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 6.171343689788614,-0.5512197413791284,-8.802692951294205
+[28Oct2024 00:41:02.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 7.481209278324769,0.6840000271797209,-7.8730964247026805
+[28Oct2024 00:41:09.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 5.625127208585155,0.0,-9.27979621633665
+[28Oct2024 00:41:11.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 2.105993980358207,0.0,-10.287638473412699
+[28Oct2024 00:41:15.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 8.033497840085218,0.0,-7.152746442963462
+[28Oct2024 00:41:24.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! -3.6763390121206783,0.0,-9.505026738145943
+[28Oct2024 00:41:39.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 00:41:47.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 00:41:53.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set Chiguinto's game mode to Survival Mode]
+[28Oct2024 00:41:55.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Survival Mode]
+[28Oct2024 00:42:16.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto was slain by Ice Dragon
+[28Oct2024 00:42:16.544] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Chiguinto with unique ID travelersbackpack.diamond_28.10.2024-00.42.16.dat
+[28Oct2024 00:42:16.544] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -33 Y: 79 Z: -974
+[28Oct2024 00:42:34.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 00:44:10.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX has made the advancement [Dragonslayer]
