@@ -71,3 +71,14 @@
 [28Oct2024 01:01:03.147] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Chiguinto with unique ID travelersbackpack.diamond_28.10.2024-01.01.03.dat
 [28Oct2024 01:01:03.148] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1166 Y: 68 Z: -644
 [28Oct2024 01:03:41.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 01:05:26.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1151, y=71, z=-645} BlockPos{x=-1151, y=72, z=-646}
+[28Oct2024 01:05:32.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1141, y=73, z=-663} BlockPos{x=-1141, y=72, z=-662}
+[28Oct2024 01:05:32.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1141, y=73, z=-663} BlockPos{x=-1141, y=72, z=-662}
+[28Oct2024 01:05:41.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1161, y=73, z=-648} BlockPos{x=-1160, y=72, z=-647}
+[28Oct2024 01:05:43.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1164, y=73, z=-653} BlockPos{x=-1164, y=72, z=-652}
+[28Oct2024 01:10:13.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX has made the advancement [Herc was on a Roll!]
+[28Oct2024 01:10:20.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 01:13:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set Chiguinto's game mode to Spectator Mode]
+[28Oct2024 01:13:34.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Spectator Mode]
+[28Oct2024 01:13:50.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! -6.1426956514030735,-0.1968313038213747,-8.815957834470055
+[28Oct2024 01:13:56.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 0.26262958415077264,0.0,-10.754572552881655
