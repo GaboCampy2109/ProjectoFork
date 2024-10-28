@@ -57,3 +57,17 @@
 [28Oct2024 00:53:21.849] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -413 Y: 73 Z: -1394
 [28Oct2024 00:53:28.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
 [28Oct2024 00:53:57.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto burned to death
+[28Oct2024 00:55:17.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 00:57:01.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 00:58:05.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chiguinto lost connection: Timed out
+[28Oct2024 00:58:05.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto left the game
+[28Oct2024 00:58:56.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Spectator Mode]
+[28Oct2024 00:59:32.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonznX moved too quickly! 3.1631631574066432,0.15000000596046448,10.164499527557155
+[28Oct2024 00:59:47.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Set own game mode to Survival Mode]
+[28Oct2024 01:00:12.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chiguinto[/[::1]:49716] logged in with entity id 101265 at (-598.8625000119209, 66.0, -1086.699999988079)
+[28Oct2024 01:00:12.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto joined the game
+[28Oct2024 01:00:33.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
+[28Oct2024 01:01:03.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chiguinto burned to death
+[28Oct2024 01:01:03.147] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Chiguinto with unique ID travelersbackpack.diamond_28.10.2024-01.01.03.dat
+[28Oct2024 01:01:03.148] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1166 Y: 68 Z: -644
+[28Oct2024 01:03:41.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlonznX: Teleported Chiguinto to AlonznX]
