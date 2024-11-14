@@ -65,3 +65,7 @@
 [14Nov2024 19:07:41.390] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
 [14Nov2024 19:07:41.390] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [14Nov2024 19:07:41.401] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[14Nov2024 19:25:39.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlonznX[/[::1]:51218] logged in with entity id 180 at (-5.5, 127.0, -4.5)
+[14Nov2024 19:25:39.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonznX joined the game
+[14Nov2024 19:25:41.143] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlonznX (18)
+[14Nov2024 19:25:41.153] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlonznX
